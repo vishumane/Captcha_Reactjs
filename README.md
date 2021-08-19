@@ -1,26 +1,17 @@
 
 # Captcha_Reactjs
-custom captcha code
-# Getting Started with Create React App
+custom captcha code.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Run project 
+    npm start
+    it will run on  http://localhost:3000.
 
-## Available Scripts
+# Test project
+npm run test
 
-In the project directory, you can run:
+it will test your all components in project.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run test`
-
-Launches the test runner in the interactive watch mode.
-### `npm run build`
-
-it will create build folder in root directory
-
+# build
+npm run build
+ 
+it will create build file in root directory.
